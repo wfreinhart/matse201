@@ -1,6 +1,15 @@
-﻿Metal,Atomic Radius,Structure,Electronegativity,Valence
+Metal,Atomic Radius,Structure,Electronegativity,Valence
 Cu,0.128 nm,FCC,1.8,2+
 Ni,0.125 nm,FCC,1.8,2+
 Al,0.143 nm,FCC,1.5,3+
 Zn,0.133 nm,HCP,1.7,2+
 Pb,0.175 nm,FCC,1.6,2+
+Sc,0.162 nm,HCP,1.4,2+
+Ti,0.147 nm,HCP,1.5,4+
+V,0.134 nm,BCC,1.6,5+
+Cr,0.128 nm,BCC,1.7,6+
+Ga,0.135 nm,ORTHO,1.8,3+
+Sn,0.140 nm,BCT,1.9,2+
+Co,0.125 nm,HCP,1.9,2+
+In,0.167 nm,BCT,1.8,3+
+Fe,0.126 nm,FCC,1.8,2+
