@@ -1,0 +1,13 @@
+﻿Material,Thermal Conductivity (W/m*K),Specific Heat (J/kg*K),Density (kg/m^3)
+Brick,0.7,840,1600
+Concrete,0.9,920,1650
+Granite,2.8,820,2600
+Glass,0.8,880,2700
+Oak,0.16,1250,720
+Pine,0.12,1350,510
+PVC,0.19,1250,1400
+Paper,0.04,1300,930
+Acoustic Tile,0.06,1340,290
+Particle board,0.13,1300,800
+Fiberglass,0.04,700,150
+Polystyrene,0.03,1200,50
